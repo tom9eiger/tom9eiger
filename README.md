@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tom, currently working for Bechtle Schweiz AG
+- 👀 I’m interested in Kubernetes, Ansible and Home Automation
+- 🌱 I’m currently learning deeper Anderstnading in Kubernetes and Monitoring with Prometheus and Grafana
+- 📫 Any quesition you can reach me at tom38715@gmail.com
